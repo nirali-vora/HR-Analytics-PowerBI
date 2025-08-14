@@ -1,19 +1,30 @@
-# 🚀 My First Power BI Project – HR Analytics Dashboard
+🚀 My First Power BI Project – HR Analytics Dashboard
 
-I’m thrilled to share my very first **Power BI** project!  
-This dashboard is designed to analyze **Employee Attrition** and provide clear, data-driven insights to support better decision-making.
+I’m excited to share my very first Power BI project!
+This dashboard analyzes Employee Attrition and turns raw HR data into clear, interactive, and actionable insights to support data-driven decision-making.
 
-## 📊 Key Insights in the Dashboard
+📊 Key Features of the Dashboard
 
-- **KPIs:** Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, and Average Years in Company  
-- **Visual Analysis:** Attrition by Education, Age, Job Role, Company Year, and Gender  
-- **Data Storytelling:** Easy-to-read layout with interactive charts for quick insights  
+KPIs: Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, and Average Years in Company
 
-## 💡 Skills Used
-**Power BI** | **Data Modeling** | **Power Query** | **DAX** | **Data Visualization** | **Storytelling with Data**
+Visual Analysis: Attrition by Education, Age Group, Job Role, Company Tenure, and Gender
 
-## 📌 Takeaway
-This project helped me strengthen my ability to model data effectively, apply DAX for custom KPIs, and design a dashboard that delivers insights at a glance.
+Data Storytelling: Clean and easy-to-read layout with interactive charts for quick, insightful exploration
 
-## 🔖 Tags
-#PowerBI #DataAnalytics #DashboardDesign #FirstProject #HRAnalytics #DataVisualization #StorytellingWithData
+💡 Skills & Tools Used
+
+Power BI | Data Modeling | Power Query | DAX | Data Visualization | Data Storytelling
+
+📌 Key Takeaways
+
+This project enhanced my ability to:
+
+Build efficient data models
+
+Use DAX to create custom KPIs and calculations
+
+Design dashboards that communicate insights at a glance
+
+🔖 Tags
+
+#PowerBI #DataAnalytics #DashboardDesign #FirstProject #HRAnalytics #DataVisualization #StorytellingWithData #DAX #PowerQuery
