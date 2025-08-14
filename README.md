@@ -18,5 +18,10 @@ This dashboard is designed to analyze **Employee Attrition** and provide clear, 
 
 ---
 
+## 📌 Takeaway
+This project helped me strengthen my ability to model data effectively, apply DAX for custom KPIs, and design a dashboard that delivers insights at a glance.
+
+---
+
 ## 🔖 Tags
 #PowerBI #DataAnalytics #DashboardDesign #FirstProject #HRAnalytics #DataVisualization #StorytellingWithData
