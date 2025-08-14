@@ -1,25 +1,22 @@
-# HR Analytics Dashboard – Power BI
+# 🚀 My First Power BI Project – HR Analytics Dashboard
 
-## 📌 Overview
-This is my first Power BI project, designed to analyze employee attrition data and provide actionable insights.
+I’m thrilled to share my very first **Power BI** project!  
+This dashboard is designed to analyze **Employee Attrition** and provide clear, data-driven insights to support better decision-making.
 
-## 🔹 Skills & Tools Used
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Visualization
+---
 
-## 📊 Dashboard Insights
-- Total Employees: 1,470
-- Attrition Rate: 16.1%
-- Education-wise, Age-wise, and Job Role-wise attrition breakdown
-- Gender and company year analysis
+## 📊 Key Insights in the Dashboard
 
-## 🖼 Screenshots
-![Dashboard Overview](dashboard.png)
+- **KPIs:** Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, and Average Years in Company  
+- **Visual Analysis:** Attrition by Education, Age, Job Role, Company Year, and Gender  
+- **Data Storytelling:** Easy-to-read layout with interactive charts for quick insights  
 
-## 📂 Files
-- `HR_Analytics.pbix` – Power BI source file
-- `HR_Analytics.pdf` – Dashboard presentation
-- `dashboard.png` – Dashboard preview
+---
+
+## 💡 Skills Used
+**Power BI** | **Data Modeling** | **Power Query** | **DAX** | **Data Visualization** | **Storytelling with Data**
+
+---
+
+## 🔖 Tags
+#PowerBI #DataAnalytics #DashboardDesign #FirstProject #HRAnalytics #DataVisualization #StorytellingWithData
